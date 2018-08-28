@@ -5,3 +5,6 @@ It's for your good.
 Adding a new line to the end of the index.txt file
 Adding extra line to the end of the file.
 Adding is done.
+Adding extra few lines to index.txt files and how it works
+
+It works fine.
