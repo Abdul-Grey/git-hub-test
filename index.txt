@@ -1,2 +1,4 @@
 It's a git testing repo.
 Don't download it cause there ain't anything in there.
+
+It's for your good.
